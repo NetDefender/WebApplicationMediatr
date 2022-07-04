@@ -1,0 +1,9 @@
+﻿global using MediatR;
+global using System.Reflection;
+global using WebApplicationMediatr.Models;
+global using WebApplicationMediatr.Services;
+global using WebApplicationMediatr.Queries;
+global using WebApplicationMediatr.Commands;
+global using ErrorOr;
+global using MediatR.Pipeline;
+global using WebApplicationMediatr.PreProcessors;
